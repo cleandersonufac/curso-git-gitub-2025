@@ -12,4 +12,6 @@ Pessoas participantes:
 
 - Cleanderson
 - Aline
+- Teste
 - Fidelis
+- Silva
