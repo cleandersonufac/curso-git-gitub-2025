@@ -11,3 +11,5 @@ Confira tudo que o que temos no nosso YouTube. É grátis!
 Pessoas participantes:
 
 - Cleanderson
+- Aline
+- Fidelis
