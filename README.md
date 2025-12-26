@@ -10,9 +10,10 @@ Confira tudo que o que temos no nosso YouTube. É grátis!
 
 Pessoas participantes:
 
-- Cleanderson
+- Clanderson
 - Aline
 - Teste
 - Fidelis
 - Silva
 - Cleanderson (novamente)
+- Aline novamente
