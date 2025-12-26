@@ -15,3 +15,4 @@ Pessoas participantes:
 - Teste
 - Fidelis
 - Silva
+- Cleanderson (novamente)
