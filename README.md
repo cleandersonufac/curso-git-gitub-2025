@@ -8,7 +8,7 @@ Confira tudo o que temos no nosso YouTube. É gratis! Segue o link:
 
 [Curso Git 2025](https://youtube.com/@teomewhy)
 
-Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025. ALTEREI ESSA LINHA!
+Além do nosso YouTube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025. ALTEREI ESSA LINHA! Alterei essa linha novamente.
 
 Conheça nosso site: [teomewhy.org](https://teomewhy.org/schedule)
 
@@ -19,13 +19,14 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy). Apoie o projeto2!
 01. git checkout -b <nova-branch>
 02. cria ou atualiza arquivos
 03. git status
-05. git add *arquivos*
-06. git status
-07. git commit -m "minha mensagem"
-08. git checkout main
-09. git merge nova_branch
+45. git add *arquivos*
+56. git status
+67. git commit -m "minha mensagem"
+78. git checkout main
+89. git merge nova_branch
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
+
 01. git clone <endereco do projeto>
 02. git checkout -b <nova_branch>
 03. alterações de arquivos
@@ -40,6 +41,7 @@ Apoie nosso projeto no [Apoia-se](apoia.se/teomewhy). Apoie o projeto2!
 12. git branch -D <nova_branch>
 
 ## Fluxo de trabalho GitHub <> Local (projetos open-source)
+
 01. Fork do projeto para seu próprio github
 02. git clone <endereco do projeto fork>
 03. git checkout -b <nova_branch>
